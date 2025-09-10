@@ -28,3 +28,11 @@ Clone repo:
 ```bash
 git clone https://github.com/your-username/News-Category-Classification.git
 cd News-Category-Classification
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run notebook:
+
+jupyter notebook notebooks/NewsClassification.ipynb
